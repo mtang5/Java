@@ -16,7 +16,7 @@ public class Operators
 		answer = x + y;
 		answer2 = x - y;
 		answer3 = x * y;
-		answer4 = x / y; // 20/30 is 1.67
+		answer4 = x / y; // 20/30 is 0.67
 		answer5 = a / b;
 		answer6 = y % x;
 
