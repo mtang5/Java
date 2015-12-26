@@ -16,16 +16,16 @@ public class Operators
 		answer = x + y;
 		answer2 = x - y;
 		answer3 = x * y;
-		answer4 = x / y; // 70/30 is 2
+		answer4 = x / y; // 20/30 is 1.67
 		answer5 = a / b;
 		answer6 = y % x;
 
-		System.out.println("Answer = " + answer);
-		System.out.println("Answer2 = " + answer2);
-		System.out.println("Answer3 = " + answer3);
-		System.out.println("Answer4 = " + answer4); // 0 because answer4 is int type
-		System.out.println("Answer5 = " + answer5);
-		System.out.println("Answer6 = " + answer6);
+		System.out.println("Answer = " + answer); // print out "Answer = 50"
+		System.out.println("Answer2 = " + answer2); // print out "Answer = -10"
+		System.out.println("Answer3 = " + answer3); // print out "Answer = 600"
+		System.out.println("Answer4 = " + answer4); // print out "Answer = 0" because answer4 is int type
+		System.out.println("Answer5 = " + answer5); // print out "Answer = 2.33333335"
+		System.out.println("Answer6 = " + answer6); // print out "Answer = 10"
 	}
 
 }
